@@ -9,5 +9,5 @@ the companies and make 10 portfolios each of which contains 38 or 39 stocks in t
 
 # Folders
 
-./csv: datasets in .csv format. The files whose name contain 'detail' include dates and ticker symbols.
+./csv: datasets in .csv format. The files whose name contain 'detail' include dates and ticker symbols.\
 ./mat: datasets in .mat format. Compatible with OLPS (https://github.com/OLPS/OLPS).
